@@ -2,7 +2,7 @@
 ---
 ### 👩🏻‍💻 About me: 
 
-🔭 I’m currently searching for a job as a Java Backend Developer Junior
+🔭 I’m currently searching for a job as a **Java Backend Developer Junior**.
 
 I'am a Java Backend Developer from Mexico 🇲🇽. 
 
