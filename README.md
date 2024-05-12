@@ -2,16 +2,19 @@
 ---
 ### 👩🏻‍💻 About me: 
 
-🔭 I’m currently searching for a job as a Junior Fullstack Developer focused on Backend. 
+🔭 I’m currently searching for a job as a Java Backend Developer Junior
 
-I'am a Fullstack Developer from Mexico 🇲🇽. 
+I'am a Java Backend Developer from Mexico 🇲🇽. 
 
-I am a creative person with a strong interest in a career change towards a Full stack Developer. Previously I was at GCG Geofísica and I have completed my bachelor’s degree in International Business. 
+I am a creative person with a strong interest in a career change towards a Java BackendDeveloper. Previously I was at GCG Geofísica and I have completed my bachelor’s degree in International Business. 
 
 When I'm not working I like watching series, anime, playing video games, and learning new things.
 
 ### :hammer_and_wrench: Languages and tools:
 <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -24,7 +27,8 @@ When I'm not working I like watching series, anime, playing video games, and lea
 </div>
 
 ### :seedling: Currently learning:
-- Java
+- Testing 
+- JUnit
 
 ### 📫 Contact me:
 mariana.grana2@gmail.com
