@@ -4,7 +4,7 @@
 
 🔭 I’m currently searching for a job as a **Java Backend Developer Junior**.
 
-I'am a Java Backend Developer from Mexico 🇲🇽. 
+I'm a Java Backend Developer from Mexico 🇲🇽. 
 
 I am a creative person with a strong interest in a career change towards a Java BackendDeveloper. Previously I was at GCG Geofísica and I have completed my bachelor’s degree in International Business. 
 
