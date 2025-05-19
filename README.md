@@ -34,6 +34,9 @@ When I'm not working I like watching series, anime, playing video games, and lea
 ### 📫 Contact me:
 mariana.grana2@gmail.com
 
+### 💼 My Portfolio: 
+https://javaportfoliommgg.netlify.app/
+
 <!--
 **marianagrana2/marianagrana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
