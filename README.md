@@ -2,11 +2,11 @@
 ---
 ### 👩🏻‍💻 About me: 
 
-🔭 I’m currently searching for a job as a **Java Backend Developer Junior**.
+🔭 I’m currently searching for a job as a **Web Developer Junior**.
 
-I'm a Java Backend Developer from Mexico 🇲🇽. 
+I'm a Web Developer from Mexico 🇲🇽. 
 
-I am a creative person with a strong interest in a career change towards a Java BackendDeveloper. Previously I was at GCG Geofísica and I have completed my bachelor’s degree in International Business. 
+I am a creative person with a strong interest in a career change towards a Web Developer. Previously I was at GCG Geofísica and I have completed my bachelor’s degree in International Business. 
 
 When I'm not working I like watching series, anime, playing video games, and learning new things.
 
@@ -34,8 +34,7 @@ When I'm not working I like watching series, anime, playing video games, and lea
 ### 📫 Contact me:
 mariana.grana2@gmail.com
 
-### 💼 My Portfolio: 
-https://javaportfoliommgg.netlify.app/
+
 
 <!--
 **marianagrana2/marianagrana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
