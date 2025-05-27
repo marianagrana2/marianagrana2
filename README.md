@@ -2,7 +2,7 @@
 ---
 ### 👩🏻‍💻 About me: 
 
-🔭 I’m currently searching for a job as a **Web Developer Junior**.
+🔭 I’m currently searching for a job as a **Web Developer Junior**. 
 
 I'm a Web Developer from Mexico 🇲🇽. 
 
@@ -33,6 +33,9 @@ When I'm not working I like watching series, anime, playing video games, and lea
 
 ### 📫 Contact me:
 mariana.grana2@gmail.com
+
+### 💼 Portfolio:
+https://webdeveloperportfoliomg.netlify.app/
 
 
 
