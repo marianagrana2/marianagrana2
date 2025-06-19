@@ -35,7 +35,7 @@ When I'm not working I like watching series, anime, playing video games, and lea
 mariana.grana2@gmail.com
 
 ### 💼 Portfolio:
-https://webdeveloperportfoliomg.netlify.app/
+https://webdevelopermg.netlify.app/
 
 
 
